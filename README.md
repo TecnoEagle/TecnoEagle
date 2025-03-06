@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+</div>
+<img style="height: 650px; width: 100%;" src="https://img.freepik.com/fotos-premium/pegatina-nino-programando-robot-usando-diseno-creativo-linea-negrita-lindo-estilo-kawaii_655090-454953.jpg">
 
-<!--
-**TecnoEagle/TecnoEagle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi
 
-Here are some ideas to get you started:
+- ⭐ Github Star ⭐ 
+- 🖥️ Fronted Developer
+- 🏀 Basketball Player
+- 👦🏼 Very Young Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
